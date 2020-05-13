@@ -1,7 +1,7 @@
 # highcharts-scatter-csv
 Highcharts XY scatter chart template with CSV data
 
-## link to live chart (replace with your own link)
+## link to live chart (replaced)
 https://nancyharb.github.io/highcharts-scatter-csv/
 
 ## license
